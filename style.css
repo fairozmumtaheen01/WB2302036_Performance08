@@ -1,0 +1,21 @@
+/*this is basic code*/
+
+h1{
+    background-color: red
+    !important;
+    color: #fff;
+}
+
+
+p{
+            background-color: blueviolet;
+            color: #fff;
+        }
+        
+        #p2{
+            background-color: chocolate;
+        }
+        .class1 #internalp{
+            background-color: darkcyan;
+            color:darkred;
+        }   
